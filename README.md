@@ -1,2 +1,2 @@
 # reactProject
-# project of digital banking using react methodology
+ project of digital banking using react methodology
