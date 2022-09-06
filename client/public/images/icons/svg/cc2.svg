@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <circle r="256" cx="256" cy="256" fill="#b7e7f6" shape="circle"/>
+  <g transform="matrix(0.77,0,0,0.77,58.879999999999995,58.879999999999995)">
+    <g xmlns="http://www.w3.org/2000/svg">
+      <g>
+        <path d="m472 72h-432c-22.055 0-40 17.945-40 40v288c0 22.055 17.945 40 40 40h432c22.055 0 40-17.945 40-40v-288c0-22.055-17.945-40-40-40z" fill="#161e39" data-original="#5d647f" class=""/>
+      </g>
+      <g>
+        <path d="m176 232h-96c-8.837 0-16-7.163-16-16v-64c0-8.837 7.163-16 16-16h96c8.837 0 16 7.163 16 16v64c0 8.837-7.163 16-16 16z" fill="#ffd100" data-original="#ffd100" class=""/>
+      </g>
+      <g>
+        <g>
+          <path d="m120 336h-40c-8.837 0-16-7.163-16-16v-8c0-8.837 7.163-16 16-16h40c8.837 0 16 7.163 16 16v8c0 8.837-7.163 16-16 16z" fill="#b8bac0" data-original="#b8bac0" class=""/>
+        </g>
+        <g>
+          <path d="m224 336h-40c-8.837 0-16-7.163-16-16v-8c0-8.837 7.163-16 16-16h40c8.837 0 16 7.163 16 16v8c0 8.837-7.163 16-16 16z" fill="#b8bac0" data-original="#b8bac0" class=""/>
+        </g>
+        <g>
+          <path d="m328 336h-40c-8.837 0-16-7.163-16-16v-8c0-8.837 7.163-16 16-16h40c8.837 0 16 7.163 16 16v8c0 8.837-7.163 16-16 16z" fill="#b8bac0" data-original="#b8bac0" class=""/>
+        </g>
+        <g>
+          <path d="m432 336h-40c-8.837 0-16-7.163-16-16v-8c0-8.837 7.163-16 16-16h40c8.837 0 16 7.163 16 16v8c0 8.837-7.163 16-16 16z" fill="#b8bac0" data-original="#b8bac0" class=""/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <path d="m232 384h-160c-4.422 0-8-3.582-8-8s3.578-8 8-8h160c4.422 0 8 3.582 8 8s-3.578 8-8 8z" fill="#8a8895" data-original="#8a8895" class=""/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <path d="m336 384h-72c-4.422 0-8-3.582-8-8s3.578-8 8-8h72c4.422 0 8 3.582 8 8s-3.578 8-8 8z" fill="#8a8895" data-original="#8a8895" class=""/>
+        </g>
+      </g>
+      <g>
+        <path d="m192 192h-80v-16h80v-16h-80v-24h-16v96h16v-24h80z" fill="#ff9500" data-original="#ff9500" class=""/>
+      </g>
+      <g>
+        <circle cx="400" cy="184" fill="#ff4f19" r="48" data-original="#ff4f19"/>
+      </g>
+    </g>
+  </g>
+</svg>

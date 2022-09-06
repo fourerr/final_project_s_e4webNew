@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <circle r="256" cx="256" cy="256" fill="#5d61d8" shape="circle"/>
+  <g transform="matrix(0.76,0,0,0.7600000000000001,101.44,61.43999999999997)">
+    <g xmlns="http://www.w3.org/2000/svg">
+      <g>
+        <path d="m398.73 0v512h-398.73v-387.94l123.48-124.06z" fill="#eff5fa" data-original="#eff5fa" class=""/>
+        <path d="m199.19 0h199.54v512h-199.54z" fill="#c6e1ec" data-original="#c6e1ec" class=""/>
+        <g fill="#00b3fe">
+          <path d="m183.67 140h150.02v30h-150.02z" fill="#00b3fe" data-original="#00b3fe"/>
+          <path d="m183.67 75h150.02v30h-150.02z" fill="#00b3fe" data-original="#00b3fe"/>
+          <path d="m65.04 205h268.65v30h-268.65z" fill="#00b3fe" data-original="#00b3fe"/>
+          <path d="m65.04 270h268.65v30h-268.65z" fill="#00b3fe" data-original="#00b3fe"/>
+          <path d="m65.04 335h268.65v30h-268.65z" fill="#00b3fe" data-original="#00b3fe"/>
+          <path d="m65.04 400h268.65v30h-268.65z" fill="#00b3fe" data-original="#00b3fe"/>
+        </g>
+        <path d="m199.19 75h134.5v30h-134.5z" fill="#0274f9" data-original="#0274f9"/>
+        <path d="m199.19 140h134.5v30h-134.5z" fill="#0274f9" data-original="#0274f9"/>
+        <path d="m199.19 205h134.5v30h-134.5z" fill="#0274f9" data-original="#0274f9"/>
+        <path d="m199.19 270h134.5v30h-134.5z" fill="#0274f9" data-original="#0274f9"/>
+        <path d="m199.19 335h134.5v30h-134.5z" fill="#0274f9" data-original="#0274f9"/>
+        <path d="m199.19 400h134.5v30h-134.5z" fill="#0274f9" data-original="#0274f9"/>
+        <path d="m123.48 0v124.06h-123.48z" fill="#01f5ff" data-original="#01f5ff" class=""/>
+      </g>
+      <circle cx="362" cy="285.62" fill="#abe235" r="150" data-original="#abe235"/>
+      <path d="m512 285.62c0 82.71-67.29 150-150 150v-300c82.71 0 150 67.29 150 150z" fill="#56c025" data-original="#56c025"/>
+      <path d="m457.97 236.24-95.97 98.63-24.35 25.02-71.21-66.6 20.49-21.91 49.73 46.51 25.34-26.04 74.46-76.53z" fill="#56c025" data-original="#56c025"/>
+      <path d="m457.97 236.24-95.97 98.63v-43.02l74.46-76.53z" fill="#01995a" data-original="#01995a"/>
+    </g>
+  </g>
+</svg>

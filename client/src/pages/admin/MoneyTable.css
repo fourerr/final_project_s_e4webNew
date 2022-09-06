@@ -1,0 +1,27 @@
+.tr_money_primary {
+  background: rgba(255, 255, 255, 1);
+  transition: 0.1s linear;
+}
+
+.tr_money_head {
+  background-color: rgb(35, 48, 130) !important;
+}
+
+.tr_money_head th {
+  font-family: "Main Font";
+  background-color: rgb(35, 48, 130) !important;
+  color: whitesmoke !important;
+}
+
+.tr_money_primary2 {
+  background: whitesmoke;
+  transition: 0.1s linear;
+}
+
+.tr_money_primary:hover {
+  background: rgb(231, 231, 231);
+}
+
+.tr_money_primary2:hover {
+  background: rgba(174, 174, 174, 0.4);
+}

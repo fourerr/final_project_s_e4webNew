@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Main Font" !important;
+}
+
+.my-link {
+  color: blue;
+  text-decoration: solid;
+  cursor: pointer;
+}
+@font-face {
+  font-family: "Main Font";
+  src: url(./assets/fonts/SignikaNegative-VariableFont_wght.ttf);
+}
+
+.footer_container {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  height: 150px;
+  width: 100%;
+  background: lightgray;
+  bottom: 0;
+}
+.footer {
+  position: relative;
+  width: 100%;
+  margin-left: 200px;
+}
+.social_media {
+  top: 20%;
+  left: 20%;
+  position: absolute;
+}
+
+.footer_right {
+  top: 20%;
+  left: 50%;
+  position: absolute;
+}
+.footer_right ul {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+.copyrights {
+  position: absolute;
+  bottom: 16px;
+}
+.home {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+.home_top_left {
+  background: rgb(18, 21, 37);
+
+  border-radius: 8px;
+  border: 1px solid whitesmoke;
+  margin: 8px;
+}
+.home_top_right {
+  border-radius: 8px;
+  border: 1px solid whitesmoke;
+
+  background: rgb(18, 21, 37);
+  margin: 8px;
+}
+.home_bottom {
+  background: rgb(18, 21, 37);
+
+  grid-column: 1 / span 2;
+  border-radius: 8px;
+  border: 1px solid whitesmoke;
+  margin: 8px;
+}
+.home_icon {
+  max-width: 200px;
+  max-height: 200px;
+}
+.home_icon_container {
+  padding: 8px;
+}
+
+.home_icon_container label {
+  font-size: 24px;
+  color: whitesmoke;
+  font-weight: bold;
+  padding: 8px;
+}
+
+@media only screen and (max-width: 700px) {
+  .footer_right {
+    left: 75%;
+  }
+  .social_media {
+    left: 0;
+  }
+}
+
+#root {
+  overflow-x: hidden;
+}
